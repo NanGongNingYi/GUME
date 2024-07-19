@@ -14,7 +14,7 @@ This is the Pytorch implementation for our GUME paper:
 
 ## Dataset
 
-We provide three processed datasets: Baby, Sports, Clothing, Electronics.
+We provide four processed datasets: Baby, Sports, Clothing, Electronics.
 
 Download from Google Drive: [Baby/Sports/Clothing/Electronics](https://drive.google.com/drive/folders/1_j7du9KX30S9PwX8jmHlTmhxOof5WTnS?role=writer)
 
