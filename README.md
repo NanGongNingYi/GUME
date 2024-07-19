@@ -16,7 +16,7 @@ This is the Pytorch implementation for our GUME paper:
 
 We provide three processed datasets: Baby, Sports, Clothing, Electronics.
 
-Download from Google Drive: [Baby/Sports/Clothing/Electronics](https://drive.google.com/drive/folders/1tU4IxYbLXMkp_DbIOPGvCry16uPvolLk)
+Download from Google Drive: [Baby/Sports/Clothing/Electronics](https://drive.google.com/drive/folders/1_j7du9KX30S9PwX8jmHlTmhxOof5WTnS?role=writer)
 
 ## Training
   ```
@@ -31,7 +31,6 @@ If you find GUME useful in your research, please consider citing our [paper](htt
 ```
 ```
 The code is released for academic research use only. For commercial use, please contact [Guojiao Lin](guojiaolin37@gmail.com).
-
 
 ## Acknowledgement
 The structure of this code is  based on [MMRec](https://github.com/enoche/MMRec). Thank for their work.
